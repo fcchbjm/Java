@@ -1,4 +1,4 @@
-package whpu.E.E5.E1;
+package whpu.E.E5;
 
 public class Main {
 
